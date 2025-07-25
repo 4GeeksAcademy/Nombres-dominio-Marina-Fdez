@@ -1,5 +1,27 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+  font-family: sans-serif;
+  padding: 50px;
+  background-color: #eeeeee;
+}
+
+h1 {
+  color: #00bcdd;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.4);
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;     /* negrita */
+  font-style: italic;   /* cursiva */
+}
+
+
+ul {
+        color: rgb(255, 0, 247);
+            margin-top: 15px;
+                .ubuntu-regular-italic {
+                    font-family: "Ubuntu", sans-serif;
+                        font-weight: 400;
+                            font-style: italic;
+                            }
+
 }
